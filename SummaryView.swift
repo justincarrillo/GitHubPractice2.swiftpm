@@ -9,6 +9,6 @@ import Foundation
 import SwiftUI
 struct SummaryView: View{
     var body: some View {
-        Text("Chicago billy was being silly and he walked to a store")
+        Text("in Chicago billy was being silly and he walked to a store")
     }
 }

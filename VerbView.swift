@@ -9,7 +9,7 @@ import Foundation
 import SwiftUI
 struct VerbView: View{
     var body: some View {
-        NavigationLink(destination:
+        NavigationLink("Next", destination:
         AdjectiveView())
     }
 }

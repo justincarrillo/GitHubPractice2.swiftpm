@@ -6,3 +6,9 @@
 //
 
 import Foundation
+import SwiftUI
+struct SummaryView: View{
+    var body: some View {
+        Text("Chicago, silly, billy walked to a store")
+    }
+}
